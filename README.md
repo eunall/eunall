@@ -7,7 +7,7 @@
 
 ![icons8-latex-32](https://user-images.githubusercontent.com/5777945/184452767-050cf331-1424-402b-82eb-6ccbd4f8c5b7.png)  ![icons8-python-32](https://user-images.githubusercontent.com/5777945/184452679-fe3f7349-3859-43bb-9e18-51dcfb24ed83.png),
  ![icons8-postgresql-32](https://user-images.githubusercontent.com/5777945/184453226-58361af7-9877-4f95-99fb-4b633c52c508.png) , ![icons8-mysql-logo-32](https://user-images.githubusercontent.com/5777945/184453227-4f40fdf2-4935-4cbd-ac1e-7227a4a0778f.png)
- ![icons8-r-32](https://avatars.githubusercontent.com/u/67192157?v=4) <img src="https://avatars.githubusercontent.com/u/67192157?v=4" height="25px"/>
+ <img src="https://avatars.githubusercontent.com/u/67192157?v=4" height="25px"/>
 
 
 <h2 align="left">Areas</h2>
